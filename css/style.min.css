@@ -195,24 +195,25 @@ table {
 }
 #presentation .title2 {
   height: 30px;
-  width: 500px;
-  margin-left: 430px;
-  margin-bottom: 30px;
+  width: 400px;
+  margin: auto;
+  justify-content: center;
 }
 #presentation .title2 h2 {
   display: inline-block;
   font-style: italic;
   font-size: 20px;
   margin-top: 10px;
-  width: 310px;
+  width: 253px;
   color: #404A48;
 }
 #presentation .description {
   text-align: center;
   font-size: 14px;
   width: 700px;
+  margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 290px;
+  margin-left: 260px;
   color: #999087;
   line-height: 120%;
 }
@@ -228,6 +229,7 @@ table {
   height: 5px;
   width: 15px;
   padding-bottom: 2px;
+  margin-right: 1%;
 }
 .articles {
   font-size: 30px;
